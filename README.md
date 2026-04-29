@@ -1,12 +1,8 @@
 # ShortControls — Releases
 
-Auto-update channel for [ShortControls](https://github.com/mslmn22/ShortControls).
+Installer artifacts for [ShortControls](https://github.com/mslmn22/ShortControls)
+(source repo private). Grab the latest `Setup.exe` from the
+[releases page](https://github.com/mslmn22/ShortControls-releases/releases).
 
-Releases here are built and uploaded by the
-[release workflow](https://github.com/mslmn22/ShortControls/actions/workflows/release.yml)
-on the source repo.
-
-## Install
-
-Download the latest `ShortControls-win-Setup.exe` from the
-[latest release](https://github.com/mslmn22/ShortControls-releases/releases/latest).
+Auto-update inside the app uses these artifacts via Velopack —
+**Help → Check for updates**.
